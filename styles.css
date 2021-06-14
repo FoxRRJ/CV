@@ -1,0 +1,50 @@
+  body {
+     background-color: #98ACF8;
+        }
+
+        body{
+        background-image: url("../css/hck.jpg");
+        background-size: cover;
+        }
+
+
+        img{
+          height:250px;
+        }
+        a{
+        color:#DB6400
+        }
+
+
+
+        h1{
+        color: #DB6400;
+        }
+
+        h3{
+        color: #DB6400;
+        }
+
+
+
+
+        hr {
+        border-style:none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width:5px;
+        width:5%;
+
+        #hobbies{
+         body{
+        background-image: url("../css/bg.jpg");
+        background-size: cover;
+        }
+        }
+
+
+
+
+
+
+        }
